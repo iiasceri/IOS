@@ -1,3 +1,11 @@
+## Clima
+
+Weather app, gettings GPS from users device and then using it for parsing JSON data for the weather
+
+<p align="center">
+ <img width="317" height="567" src="https://github.com/londonappbrewery/Images/blob/master/Clima.gif">
+</p>
+
 # Weathery
 
 Simple weather app for parsing JSON data
