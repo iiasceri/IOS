@@ -1,3 +1,9 @@
+# All projects:
+
+<p align="center">
+ <img width="317" height="567" src="IOS-projects.gif">
+</p>
+
 ## Clima
 
 Weather app, gettings GPS from users device and then using it for parsing JSON data for the weather
@@ -6,7 +12,7 @@ Weather app, gettings GPS from users device and then using it for parsing JSON d
  <img width="317" height="567" src="https://github.com/londonappbrewery/Images/blob/master/Clima.gif">
 </p>
 
-# Weathery
+## Weathery
 
 Simple weather app for parsing JSON data
 
@@ -14,7 +20,7 @@ Simple weather app for parsing JSON data
  <img width="317" height="567" src="Weathery/Weathery.png">
 </p>
 
-# Quizzler
+## Quizzler
 
 Quizz app (Worked on pop-ups, and alert view)
 
@@ -22,7 +28,7 @@ Quizz app (Worked on pop-ups, and alert view)
  <img width="317" height="567" src="https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif">
 </p>
 
-# Dicly
+## Dicly
 
 Generate 2 random numbers and represent those as dices
 
