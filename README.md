@@ -1,4 +1,4 @@
-# All projects:
+# All projects (Without Flash-chat app):
 
 <p align="center">
  <img width="317" height="567" src="IOS-projects.gif">
