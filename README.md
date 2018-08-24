@@ -33,5 +33,5 @@ Quizz app (Worked on pop-ups, and alert view)
 Generate 2 random numbers and represent those as dices
 
 <p align="center">
- <img width="317" height="567" src="/App%20Development/Dicly/Dicly.png">
+ <img width="317" height="567" src="Dicly/Dicly.png">
 </p>
